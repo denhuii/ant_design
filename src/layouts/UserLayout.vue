@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="desc">ant Design Vue Pro</div>
+    <!-- <div class="desc">ant Design Vue Pro</div> -->
     <router-view></router-view>
   </div>
 </template>
