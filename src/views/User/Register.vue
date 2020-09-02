@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name: 'regirster',
+  name: "regirster",
 };
 </script>
 
